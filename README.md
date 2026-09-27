@@ -15,5 +15,5 @@ Yea i know, i know it’s not a big deal, maybe even an unknown achievement, but
 
 -This first achievement is far from impressive, but it is a quiet foundation. Even in my self-doubt, it marks the beginning of growth, however uncertain that growth may be.
 
-*I changed my commit cuz, after a couple of weeks, I realized I might have been too proud of something so small.
+*I changed my commit cuz, after a couple of weeks, I realized I might have been too proud of something that does not really matter
 
