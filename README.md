@@ -1,5 +1,6 @@
 # My First CTF Step
 This repository marks my very first achievement in CTF.
+
 Yea i know, i know it’s not a big deal, maybe even an unknown achievement, but it’s my first step and I’m proud of it. 
 
 ## Flag
@@ -13,3 +14,6 @@ Yea i know, i know it’s not a big deal, maybe even an unknown achievement, but
 -I’m not certain whether my future belongs to cybersecurity, pentesting, or something else entirely. Honestly, I often doubt myself and feel that this progress is too small to matter. Yet, joining HYCSC has shifted my perspective: even if I’m not confident, CTF has become the turning point that made me question and explore.  
 
 -This first achievement is far from impressive, but it is a quiet foundation. Even in my self-doubt, it marks the beginning of growth, however uncertain that growth may be.
+
+*I changed my commit cuz, after a couple of weeks, I realized I might have been too proud of something so small.
+
