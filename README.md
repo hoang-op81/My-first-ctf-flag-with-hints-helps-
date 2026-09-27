@@ -1,5 +1,3 @@
-# My-first-ctf-flag-with-hints-helps-
-My first ever flag
 This repository marks my very first achievement in CTF.
 
 ## Flag
